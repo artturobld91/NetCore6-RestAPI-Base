@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IzkYZ7vNv8BMMLsPNHGLTfuVP2oKI6yIdJEuoCKwCQgEva2mngbAGUcw+87LV4AV6QC5Bik3K5ga6BlQUaWhtg==",
+  "dgSpecHash": "95SIJHZ9QMT6OEG7I6N4dl5qYmLFm1gJUqeTPj4zhCczY7sCEg48k3YBbPQSRkDeTVudqfwBd9s/z0j7oA52tg==",
   "success": true,
   "projectFilePath": "/Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/RestAPINet6Base.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/Users/artturobld/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.12/microsoft.aspnetcore.jsonpatch.5.0.12.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.12/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.12.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/artturobld/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
@@ -22,7 +23,10 @@
     "/Users/artturobld/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/artturobld/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/artturobld/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/artturobld/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/artturobld/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",

@@ -41,3 +41,6 @@
 /Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
 /Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/obj/Debug/net5.0/RestAPINet6Base.MvcApplicationPartsAssemblyInfo.cs
