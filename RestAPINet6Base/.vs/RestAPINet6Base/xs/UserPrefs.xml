@@ -1,10 +1,27 @@
 ﻿<Properties StartupConfiguration="{A7B5A597-0D3C-4211-8C50-CB60A627B7CF}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestAPINet6Base/Startup.cs">
+    <Files>
+      <File FileName="RestAPINet6Base/Controllers/WeatherForecastController.cs" Line="7" Column="1" />
+      <File FileName="RestAPINet6Base/Controllers/HeartBeatController.cs" Line="22" Column="33" />
+      <File FileName="RestAPINet6Base/appsettings.json" Line="1" Column="1" />
+      <File FileName="RestAPINet6Base/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="RestAPINet6Base/Properties/launchSettings.json" Line="24" Column="36" />
+      <File FileName="RestAPINet6Base/Startup.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RestAPINet6Base" expanded="True" selected="True">
-            <Node name="RestAPINet6Base" expanded="True" />
+          <Node name="RestAPINet6Base" expanded="True">
+            <Node name="RestAPINet6Base" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
