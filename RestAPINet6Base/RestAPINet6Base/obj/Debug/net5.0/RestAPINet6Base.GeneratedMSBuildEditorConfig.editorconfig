@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestAPINet6Base
+build_property.ProjectDir = /Users/artturobld/Documents/RestAPI Base/NetCore6-RestAPI-Base/RestAPINet6Base/RestAPINet6Base/
